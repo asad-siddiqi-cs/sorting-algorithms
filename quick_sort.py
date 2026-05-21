@@ -51,7 +51,7 @@ print(sorted_list)
 
 """
 Quick sort is significantly faster than bubble sort
- for large datasets because it partitions the list recursively, 
+ for large datasets as it partitions the list recursively, 
  achieving an average time complexity of O(nlogn) 
  compared to bubble sorts O(n^2).
 """
